@@ -1,0 +1,2 @@
+# learningbash
+just a starter
